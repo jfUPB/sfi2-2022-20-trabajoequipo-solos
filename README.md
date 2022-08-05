@@ -6,11 +6,12 @@
 # Trayectoria de clase:
 
 ```
-Se definio el flujo de trabajo con los compañeros de la clase; en el cual llegamos a la conclusion de tomar una modalidad de **branching**
-bajo esta idea, decidimos crear entre los integrantes una serie de tareas para que el flujo de trabajo fuera claro; no hubiera errores ni 
+Se definio el flujo de trabajo con los compañeros de la clase; en el cual llegamos a la conclusion 
+de tomar una modalidad de ** branching ** bajo esta idea, decidimos crear entre los integrantes 
+una serie de tareas para que el flujo de trabajo fuera claro; no hubiera errores ni 
 desequilibrio.
 
-*¿Como funciona el braching?*
+* ¿Como funciona el braching? *
 
 El branching es una modalidad de trabajo en equipos en las que, ponemos especial atencion a los trabajos de forma individual antes de ser
 subidos de forma definitiva al proyecto; esto se hace para evitar errores y tener un control de versiones en el cual siempre sea posible
