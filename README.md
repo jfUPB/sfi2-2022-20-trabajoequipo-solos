@@ -7,7 +7,7 @@
 
 ```
 Se definio el flujo de trabajo con los compañeros de la clase; en el cual llegamos a la conclusion 
-de tomar una modalidad de ** branching ** bajo esta idea, decidimos crear entre los integrantes 
+de tomar una modalidad de __branching__ bajo esta idea, decidimos crear entre los integrantes 
 una serie de tareas para que el flujo de trabajo fuera claro; no hubiera errores ni 
 desequilibrio.
 
