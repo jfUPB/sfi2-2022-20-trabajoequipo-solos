@@ -44,6 +44,7 @@ Durante el proceso de creacion de la carpeta de Unity colocamos el .gitignore; d
 evitamos que el repositorio contenga archivos innecesarios que pueden generar malos entendidos.
 
 ```
-![Este es un tutorial creado utilizando Notion para explicar de mejor manera los comandos principales de Git](https://myoctocat.com/assets/images/base-octocat.svg)
+# Este es un tutorial creado utilizando Notion para explicar de mejor manera los comandos principales de Git
+![Este es un tutorial creado utilizando Notion para explicar de mejor manera los comandos principales de Git](https://github.com/jfUPB/sfi2-2022-20-trabajoequipo-solos/blob/main/TutorialComandos.png)
 
 
