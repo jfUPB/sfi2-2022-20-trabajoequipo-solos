@@ -32,7 +32,7 @@ Para subir todo esto al repositorio creamos una branch Development
 Creamos la branch feature 1 en la que subimos las carpetas anteriormente creadas y solicitamos
 un commit; tras recibir la aprobacion de todos hacemos un merge con la branch Main
 
-Creamos una tercera branch llamada ***feature 2*** en la que cada uno va a editar su tarea 
+Creamos una tercera branch llamada feature 2 en la que cada uno va a editar su tarea 
 correspondiente y finalmente cada uno va hacer un commit, al revisar que no halla errores 
 ni choques entre las creaciones se hace un commit y se solicita un merge.
 
@@ -40,7 +40,7 @@ De este modo logramos que las ramas y el main esten al mismo nivel de informacio
 
 Notas aclaratorias
 
-Durante el proceso de creacion de la *carpeta de Unity* colocamos el .gitignore; de este modo 
+Durante el proceso de creacion de la carpeta de Unity colocamos el .gitignore; de este modo 
 evitamos que el repositorio contenga archivos innecesarios que pueden generar malos entendidos.
 
 
